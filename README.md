@@ -1,6 +1,6 @@
 ## Palworld Dashboard
 
-<img alt="PalworldDashboard" src="https://raw.githubusercontent.com/kreangsak-project-sharing/palworld-supabase-realtime-frontend/main/Screenshot%202024-05-23%20221903.png" />
+<img alt="PalworldDashboard" src="https://raw.githubusercontent.com/kreangsak-project-sharing/palworld-frontend-v2/main/Screenshot%202024-07-21%20020759.png" />
 
 ## Getting Started
 
